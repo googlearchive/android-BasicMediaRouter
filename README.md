@@ -14,8 +14,8 @@ Once connected, use the "Change Color" button to change the background color of 
 Pre-requisites
 --------------
 
-- Android SDK v22
-- Android Build Tools v22.0.1
+- Android SDK v23
+- Android Build Tools v23.0.0
 - Android Support Repository
 
 Getting Started
