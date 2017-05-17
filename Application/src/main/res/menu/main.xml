@@ -1,4 +1,5 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools">
 
     <!-- This ActionProvider is configured to  -->
     <item
@@ -7,6 +8,7 @@
         android:orderInCategory="1"
         android:showAsAction="always"
         android:title="@string/menu_present_to"
-        android:visible="true"/>
+        android:visible="true"
+        tools:ignore="AppCompatResource"/>
 
 </menu>
